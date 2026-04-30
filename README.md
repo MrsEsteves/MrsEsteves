@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Sonne! 👋
 
-<!--
-**MrsEsteves/MrsEsteves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Engineering** student based in **Luanda, Angola**.
 
-Here are some ideas to get you started:
+Right now, I'm at the beginning of my coding journey at **Universidade Metodista de Angola**. To be honest, I’m still figuring things out, but I’m committed to getting better every single day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is my **main account**, where I'll be sharing all my **university projects** and academic progress.
+
+---
+
+**🚀 Current Focus:**
+*   Mastering the foundations of **Python** and **C**.
+*   Documenting my progress from my first university steps.
+*   Turning curiosity into real-world practice.
+
+---
+*"Documenting the journey, from the past to the future."*
