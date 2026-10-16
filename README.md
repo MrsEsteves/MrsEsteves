@@ -9,7 +9,7 @@ This is my **main account**, where I'll be sharing all my **university projects*
 ---
 
 **🚀 Current Focus:**
-*   Mastering the foundations of **Python** and **C**.
+*   Mastering the foundations of **Python**, **C**, **HTML** and **CSS**.
 *   Documenting my progress from my first university steps.
 *   Turning curiosity into real-world practice.
 
